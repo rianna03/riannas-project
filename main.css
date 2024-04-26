@@ -488,3 +488,36 @@ footer {
   width: 100%;
   background-color: var(--light-background-color);
 }
+.button1{
+  width: 80px;
+  height: 70px;
+  background-image:url(assets/gallery/image1.jpg);
+  background-size: cover;
+  margin-right: 5px;
+  border-radius: 15px;
+}
+.button1:hover{
+  border: 1.2px solid orangered;
+}
+.button2{
+  width: 80px;
+  height: 70px;
+  background-image:url(assets/gallery/image2.jpg);
+  background-size: cover;
+  margin-right: 5px;
+  border-radius: 15px;
+}
+.button2:hover{
+  border: 1.2px solid greenyellow;
+}
+.button3{
+  width: 80px;
+  height: 70px;
+  background-image:url(assets/gallery/image3.jpg);
+  background-size: cover;
+  margin-right: 5px;
+  border-radius: 15px;
+}
+.button3:hover{
+  border: 1.2px solid rgb(23, 193, 215);
+}
